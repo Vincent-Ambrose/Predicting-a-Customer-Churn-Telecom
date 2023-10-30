@@ -1,0 +1,9 @@
+files
+catboost_info
+*.csv
+*.ipynb
+*.xlsx
+*.pdf
+*.jpg
+*.jpeg
+*.png
