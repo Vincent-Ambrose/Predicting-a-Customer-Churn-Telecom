@@ -1,4 +1,5 @@
 files
+catboost_info
 *.csv
 *.ipynb
 *.xlsx
