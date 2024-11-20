@@ -1,4 +1,4 @@
-# Predicting-a-Customer-Churn-Telecom
+# Predicting a Customer Churn Telecom
 A telecom operator wants to forecast its customer churn in order to aim promotional codes and special plans.
 
 
